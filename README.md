@@ -18,8 +18,8 @@ A dedicated Computer Science and Engineering student with a strong focus on Mach
 ## 🛠️ Tech Stack & Skills
 
 * **Languages:** Python, C++, SQL / MySQL
-* **Libraries & Frameworks:** Machine Learning Ecosystem (TensorFlow, Pandas), Django, FastAPI, Pygame
-* **Concepts & Tools:** Object-Oriented Programming (OOP), Data Structures, API Development, Arduino
+* **Libraries & Frameworks:** Machine Learning Ecosystem (TensorFlow, Pandas, Seaborn, Mathplotlib), Kivy
+* **Concepts & Tools:** Object-Oriented Programming (OOP), Data Structures, Moile App development
 
 ## 📫 Connect with Me
 
