@@ -11,7 +11,7 @@
 ###
 
 - 🎓 **Education:** A Graduated CSE student passionate about writing clean, efficient code and solving real-world problems.
-- 🏢 **Experience:** Completed an internship at the ICT Division of Janata Bank PLC (July – Oct 2025).
+- 🏢 **Experience:** Completed an internship at the ICT Division of Janata Bank PLC (July – Oct 2025). Completed an internship at Excelerate as a Data Analyst (September 2025).
 - 🌱 **Currently Learning:** Deep-diving into advanced Python OOP, MySQL, and modern web frameworks like Django and FastAPI.
 - 🎯 **Goals:** Preparing for advanced academic studies (M.Sc. in CSE) to further specialize in computer science and artificial intelligence.
 
