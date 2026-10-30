@@ -1,5 +1,7 @@
 # 💫 About Me:
-A dedicated Computer Science and Engineering student with a strong focus on Machine Learning, Python programming, and software development. I enjoy building intelligent systems, exploring backend architecture, and bridging the gap between software and hardware.🎓 Education: A Graduated CSE student passionate about writing clean, efficient code and solving real-world problems.<br>🏢 Experience: Completed an internship at the ICT Division of Janata Bank PLC (July – Oct 2025). Completed an internship at Excelerate as a Data Analyst (September 2025).<br>🌱 Currently Learning: Deep-diving into advanced Python OOP, MySQL, and modern web frameworks like Django and FastAPI.<br>🎯 Goals: Preparing for advanced academic studies (M.Sc. in CSE) to further specialize in computer science and artificial intelligence.
+A dedicated Computer Science and Engineering student with a strong focus on Machine Learning, Python programming, and software development. I enjoy building intelligent systems, exploring backend architecture, and bridging the gap between software and hardware.
+
+🎓 Education: A Graduated CSE student passionate about writing clean, efficient code and solving real-world problems.<br>🏢 Experience: Completed an internship at the ICT Division of Janata Bank PLC (July – Oct 2025). Completed an internship at Excelerate as a Data Analyst (September 2025).<br>🌱 Currently Learning: Deep-diving into advanced Python OOP, MySQL, and modern web frameworks like Django and FastAPI.<br>🎯 Goals: Preparing for advanced academic studies (M.Sc. in CSE) to further specialize in computer science and artificial intelligence.
 
 
 ## 🌐 Socials:
