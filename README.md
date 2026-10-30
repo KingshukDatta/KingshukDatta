@@ -1,98 +1,22 @@
-<h1 align="center">Hi there, I'm Kingshuk Datta 👋</h1>
+# 💫 About Me:
+A dedicated Computer Science and Engineering student with a strong focus on Machine Learning, Python programming, and software development. I enjoy building intelligent systems, exploring backend architecture, and bridging the gap between software and hardware.🎓 Education: A Graduated CSE student passionate about writing clean, efficient code and solving real-world problems.<br>🏢 Experience: Completed an internship at the ICT Division of Janata Bank PLC (July – Oct 2025). Completed an internship at Excelerate as a Data Analyst (September 2025).<br>🌱 Currently Learning: Deep-diving into advanced Python OOP, MySQL, and modern web frameworks like Django and FastAPI.<br>🎯 Goals: Preparing for advanced academic studies (M.Sc. in CSE) to further specialize in computer science and artificial intelligence.
 
-###
 
-<p align="center">A dedicated Computer Science and Engineering student with a strong focus on Machine Learning, Python programming, and software development. I enjoy building intelligent systems, exploring backend architecture, and bridging the gap between software and hardware.</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kingshuk-datta/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kingshukdatta2001@gmail.com) 
 
-###
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=KingshukDatta&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=KingshukDatta&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KingshukDatta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h2 align="center">🧑‍💻 About Me</h2>
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🎓 **Education:** A Graduated CSE student passionate about writing clean, efficient code and solving real-world problems.
-- 🏢 **Experience:** Completed an internship at the ICT Division of Janata Bank PLC (July – Oct 2025). Completed an internship at Excelerate as a Data Analyst (September 2025).
-- 🌱 **Currently Learning:** Deep-diving into advanced Python OOP, MySQL, and modern web frameworks like Django and FastAPI.
-- 🎯 **Goals:** Preparing for advanced academic studies (M.Sc. in CSE) to further specialize in computer science and artificial intelligence.
+---
+[![](https://komarev.com/ghpvc/?username=KingshukDatta&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-###
-
-- **HandLearn** — A specialized e-learning platform utilizing Artificial Intelligence to evaluate and grade handwritten student answers.
-- **AI Flappy Bird** — A machine learning simulation that uses the NEAT (NeuroEvolution of Augmenting Topologies) algorithm and Pygame to train an AI to play the game autonomously.
-- **Customer Churn Prediction** — Analyzed a given dataset and helped find useful insights.
-
-###
-
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
-</div>
-
-###
-
-<p align="center">
-  <b>Languages:</b> Python, C, C++, SQL / MySQL <br/>
-  <b>Libraries & Frameworks:</b> TensorFlow, Pandas, Seaborn, Matplotlib, Kivy <br/>
-  <b>Concepts & Tools:</b> Object-Oriented Programming (OOP), Data Structures, Mobile App Development
-</p>
-
-###
-
-<h2 align="center">📚 Currently Learning</h2>
-
-###
-
-- 📊 Excel
-- 📈 Microsoft Power BI
-- 🗄️ Tabular
-- 🤖 Machine Learning
-- 🎮 Unreal Engine
-- 🎨 Blender
-
-###
-
-<h2 align="center">🤝 Connect with Me</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/kingshuk-datta" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="mailto:kingshukdatta2001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KingshukDatta&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KingshukDatta/KingshukDatta/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KingshukDatta/KingshukDatta/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KingshukDatta/KingshukDatta/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<p align="center">⭐ Feel free to explore my repositories and reach out if you'd like to collaborate!</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
